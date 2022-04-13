@@ -102,8 +102,8 @@ $\exists$常数$M$，$\forall x \in D$ ，都有$f(x) \leq M$
 
 - $\forall x \in R$
 - $\left\lvert f(x) \right\rvert = \left\lvert sin^{80}x-6cos^{60}2x \right\rvert$
-- 接下来用到绝对值不等式：$\leq  = \left\lvert sin^{80}x \right\rvert + \left\lvert 6cos^{60}2x \right\rvert$
-- 把6提出来：$\leq  = \left\lvert sin^{80}x \right\rvert + 6 \left\lvert cos^{60}2x \right\rvert$
+- 接下来用到绝对值不等式：$\leq  \left\lvert sin^{80}x \right\rvert + \left\lvert 6cos^{60}2x \right\rvert$
+- 把6提出来：$\leq   \left\lvert sin^{80}x \right\rvert + 6 \left\lvert cos^{60}2x \right\rvert$
 - $\leq 1 + 6 = 7$
 - 则$f(x)$有界
 
