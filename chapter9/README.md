@@ -67,21 +67,22 @@ $底数^{指数}$
 ### 一些关于对数的补充
 1.1.4 对数
 
-若$a^x = b(a>0,a \neq 1$，则称$x$是$b$的以$a$为底的对数，记作$x=log_{a}b$，其中$b>0$称为真数。
+若$a^x = b(a>0,a \neq 1)$，则称$x$是$b$的以$a$为底的对数，记作$x=log_{a}b$，其中$b>0$称为真数。
 
-当$a=10$时，$log_{a}b$记作$lgb$，称为常用对数。
+当$a=10$时，$log_{a}b$记作$lgb$，称为**常用对数**。
 
-当$a=e$时（e指的是数学常数），$log_{e}b$记作$lnb$，称为自然对数。
+当$a=e$时（e指的是数学常数），$log_{e}b$记作$lnb$，称为**自然对数**。
 
 由定义可得：$a^{log_{a}b} = b ，log_{a}a^x=x ， log_{a}1 = 0 ， log_{a}a=1$.
 
 设$a>0，a\neq 1 ， b>0 ， b_{i} >0(i=1,2,...,n)$，则对数满足下列运算法则：
 
-$log_{a}(b_{1}b_{2}...b_{n}) = log_ab_1 + log_ab_2 + ... + log_ab_n$，
-$log_a(\frac {b_1} {b_2}) = log_ab_1 - log_ab_2 ， log_ab^x = xlog_ab(x为实数）。$
+	$log_{a}(b_{1}b_{2}...b_{n}) = log_ab_1 + log_ab_2 + ... + log_ab_n$，
+	
+	$log_a(\frac {b_1} {b_2}) = log_ab_1 - log_ab_2 ， log_ab^x = xlog_ab(x为实数）。$
 
 设$a,b,c>0; a,b,c \neq 1$， 则对数有如下的换底公式：
 
-$log_ab = \frac {log_cb} {log_ca}$， 特别地有$ln b = \frac {lgb} {lge}$，$log_ab \cdot log_ba = 1$
+$log_ab = \frac {log_cb} {log_ca}$，特别地有 $ln b = \frac {lgb} {lge}$ ，$log_ab \cdot log_ba = 1$
 
 ### 9.1.3 对数函数、指数函数及反函数
